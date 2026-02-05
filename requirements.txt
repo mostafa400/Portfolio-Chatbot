@@ -1,0 +1,5 @@
+fastapi==0.104.1        # Web framework (like Express.js for Python)
+uvicorn==0.24.0         # Server to run FastAPI
+openai==1.3.0           # Library to talk to OpenRouter
+python-dotenv==1.0.0    # Load environment variables
+slowapi==0.1.9          # Rate limiting (optional, we built our own)
